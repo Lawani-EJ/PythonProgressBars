@@ -1,5 +1,3 @@
-Here’s a playful, engaging README for your project using `alive_progress`!
-
 ---
 
 # 🎉 Alive Progress Bar Demo 🚀
@@ -51,13 +49,23 @@ python your_file_name.py
 
 ---
 
+## 📸 Screenshot
+
+Below is a sample screenshot of the `alive_progress` bar in action to give you a taste of the lively progress you’ll see! 
+
+![Alive Progress Screenshot](./assets/script.py-PythonLoaders-VisualStudioCode2024-11-1221-49-38-ezgif.com-video-to-gif-converter.gif)
+
+![Alive Progress Screenshot](./assets/script.py-PythonLoaders-VisualStudioCode2024-11-1221-48-14-ezgif.com-video-to-gif-converter.gif)
+
+---
+
 ## 🧪 Experiment with It!
 
 Feel free to modify the values in the `for x in 1000, 1500, 700, 0:` line to see different progress speeds. You can even add your custom tasks to this loop to visualize how long they take to run. Time to make your terminal lively! 🎉
 
 ---
 
-## 📣 Shoutout to `alive_progress` 
+## 📣 Shoutout to `alive_progress`
 
 A big thanks to **[`alive_progress`](https://github.com/rsalmei/alive-progress)** for this delightful library. It’s open-source, fun, and made to keep our terminals far from boring. 🌟
 
@@ -65,7 +73,7 @@ A big thanks to **[`alive_progress`](https://github.com/rsalmei/alive-progress)*
 
 ## 📜 License
 
-This is a free-to-use demo — customize it, remix it, and make it yours! 
+This is a free-to-use demo — customize it, remix it, and make it yours!
 
 ---
 
